@@ -1,4 +1,4 @@
-#boids
+# boids
 Flocking simulation based off Craig Reynolds' paper.
 
 running instructions:
