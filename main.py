@@ -234,3 +234,4 @@ def main():
         pygame.display.update()
     
 main()
+print("something")
